@@ -3,7 +3,7 @@
 You can find a **assignment.pdf** document detailing my algorithms and the corresponding implementations in each assignment's folder.
 
 <h3>1) <a target="_blank" rel="noopener noreferrer" href="">Draw the Line</a></h3>
-<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/draw_the_line.png?token=GHSAT0AAAAAACGZC3RVRMSUL5A3GHQOO4NUZHKIBWQ" width="330">
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/draw_the_line.jpg?token=GHSAT0AAAAAACGZC3RVRMSUL5A3GHQOO4NUZHKIBWQ" width="330">
 &nbsp;
 <p align="justify">For the purpose of this assignment, you are asked to optimize line rendering alone; 
 you can thusleave all other code unmodified. Please do not use the GPU to speed up line rendering, 
