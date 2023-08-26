@@ -6,9 +6,8 @@ Also, a report explaining my changes can be found for [assignment 2](https://git
 <h3>1) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/ov-assignments-uu/tree/main/draw_the_line/optimized">Draw the Line (~5x faster)</a></h3>
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/draw_the_line.jpg" width="330">
 &nbsp;
-<p align="justify">For the purpose of this assignment, you are asked to optimize line rendering alone; 
-you can thus leave all other code unmodified. Please do not use the GPU to speed up line rendering, 
-and do not use multi-threading.</p>
+<p align="justify">The goal of this assignment is to optimize the line rendering logic alone; 
+thus all the other code should be left unmodified. GPGPU and multi-threading are not allowed.</p>
 <br clear="left"/>
 
 ---
@@ -25,7 +24,6 @@ The goal of this assignment is to improve the performance of the application usi
 <h3>3) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/ov-assignments-uu/tree/main/not_a_drill/optimized">Not a Drill (~35% faster)</a></h3>
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/not_a_drill.jpg" width="330">
 &nbsp;
-<p align="justify">Make Scene::FindNearest and Scene::IsOccluded (defined in template/scene.h) as fast as possible, without changing the interface in any way. Anything is
-permitted, as long as the '1. Basics' project and '2. Whitted' project can use
+<p align="justify">Make Scene::FindNearest and Scene::IsOccluded (defined in template/scene.h) as fast as possible, without changing the interface in any way. Anything is permitted, as long as the '1. Basics' project and '2. Whitted' project can use
 scene.h without changes. This probably excludes a GPGPU implementation.</p>
 <br clear="left"/>
