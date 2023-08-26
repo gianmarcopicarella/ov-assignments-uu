@@ -13,7 +13,7 @@ and do not use multi-threading.</p>
 ---
 
 <h3>2) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/ov-assignments-uu/tree/main/velocity_vector/optimized">Velocity Vector (~2.1x & 466x faster with SIMD and GPGPU)</a></h3>
-<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/velocity_vector.jpg?token=GHSAT0AAAAAACGZC3RV4UYPY2PAYNOTQTXSZHKIHXQ" width="330">
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/velocity_vector.jpg" width="330">
 &nbsp;
 <p align="justify"> The code for this assignment implements a basic cloth simulation on a 256x256 grid using a technique known as Verlet integration.
 The goal of this assignment is to improve the performance of the application using vectorization. This can be accomplished with two main technologies discussed during the course: SIMD and GPGPU.</p>
@@ -22,7 +22,7 @@ The goal of this assignment is to improve the performance of the application usi
 ---
 
 <h3>3) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/ov-assignments-uu/tree/main/not_a_drill/optimized">Not a Drill (~35% faster)</a></h3>
-<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/not_a_drill.jpg?token=GHSAT0AAAAAACGZC3RVK3UCTTPZF7BKXKQWZHKIIAQ" width="330">
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/not_a_drill.jpg" width="330">
 &nbsp;
 <p align="justify">Make Scene::FindNearest and Scene::IsOccluded (defined in template/scene.h) as fast as possible, without changing the interface in any way. Anything is
 permitted, as long as the '1. Basics' project and '2. Whitted' project can use
