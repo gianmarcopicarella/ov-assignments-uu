@@ -1,6 +1,7 @@
 # Optimization & Vectorization 22/23 course assignments
 
-You can find a **assignment.pdf** document detailing my algorithms and the corresponding implementations in each assignment's folder.
+You can find a **assignment.pdf**  document detailing my algorithms and the corresponding implementations in each assignment's folder.
+Also, a report explaining my changes can be found for [assignment 2](https://github.com/gianmarcopicarella/ov-assignments-uu/blob/main/velocity_vector/optimized/report.pdf) and [assignment 3](https://github.com/gianmarcopicarella/ov-assignments-uu/blob/main/not_a_drill/optimized/report.pdf) into their respective "optimized" folders.
 
 <h3>1) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/ov-assignments-uu/tree/main/draw_the_line/optimized">Draw the Line (~5x faster)</a></h3>
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/ov-assignments-uu/main/readme/draw_the_line.jpg" width="330">
