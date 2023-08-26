@@ -1,0 +1,18 @@
+This is the 'safety net' application for the final assignment for INFOMOV'23.
+It is provided to you as a compact optimization target. Since the scope is
+rather modest, this will be graded as a 'basic application' (penalty: 1 point).
+
+Optimization goal:
+Make Scene::FindNearest and Scene::IsOccluded (defined in template/scene.h) as
+fast as possible, without changing the interface in any way. Anything is
+permitted, as long as the '1. Basics' project and '2. Whitted' project can use
+scene.h without changes. This probably excludes a GPGPU implementation.
+NOTE: Ensure that the resulting scene.h yields the same result as the original.
+This may be particularly challenging for the torus intersection code, which
+already depends on double precision floats for accurate results.
+Since *only* the performance of scene.h matters, it is recommended to use
+'1. Basics' for profiling, as it has less overhead than '2. Whitted'. Please
+do not optimize the renderers, just the intersection code.
+Please use '2. Whitted' to validate accuracy. This renderer is more
+sensitive to accurate results from scene.h, particularly for the glass torus.
+Please include validation of correct results in your report.
